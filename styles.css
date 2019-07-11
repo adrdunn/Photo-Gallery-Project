@@ -1,0 +1,30 @@
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  display: inline;
+  text-align: center;
+}
+
+body {
+  font-family: 'Roboto Condensed';
+  color: #00609c;
+  background-color: #fbb8ff;
+  font-size: 25px;
+}
+img {
+  padding: 30px;
+  border-radius: 360px;
+  border-color: blue;
+}
+.img1 {
+  margin: 5px;
+}
+.img4 {
+  height: 1000px;
+  width: 500px;
+  margin-top: -300px;
+}
+.img3 {
+height: 400px;
+width: 400px;
+}
